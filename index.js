@@ -145,10 +145,10 @@ function skills(){
                 <li>HTML(Intermediate)</li>
                 <li>CSS(Intermediate)</li>
                 <li>JavaScript (Intermediate)</li>
-                <li>jQuery (Learning)</li>
-                <li>Django (Learning)</li>
-                <li>ReactJS</li>
-                <li>Machine learning (Learning)</li>
+                <li>jQuery (Beginner)</li>
+                <li>Django (Beginner)</li>
+                <li>ReactJS (Beginner)</li>
+                <li>Machine learning (Beginner)</li>
                 <li>Data Visualization (Intermediate)</li>
             </ol>
         </div>
