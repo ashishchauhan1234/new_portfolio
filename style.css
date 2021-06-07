@@ -181,21 +181,25 @@ text-shadow: 2px 3px 4px #234356;
 
 #footer{
     width: 98%;
-    height: 150px;
+    height: 160px;
     margin:1%;
     background: #54336395;
 }
 
 #footer h3{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     text-decoration: underline;
     padding: 10px 0;
     background: #98763468;
     border-bottom: 10px solid #987634;
 }
 #footer a{
-    font-size: 20px;
-    margin: 150px;
-    padding-top: 20px;
+    font-size: 25px;
+    color: #322266;
+    margin: 0 150px ;
+}
+
+#footer a:hover{
+    color: #721266;
 }
